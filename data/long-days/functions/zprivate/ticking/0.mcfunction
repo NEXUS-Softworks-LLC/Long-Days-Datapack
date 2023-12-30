@@ -1,0 +1,1 @@
+execute if score day_scale longdays.config matches 2.. run function long-days:zprivate/ticking/1

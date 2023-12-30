@@ -1,0 +1,11 @@
+{
+    "criteria": {
+      "0": {
+        "trigger": "minecraft:slept_in_bed"
+      }
+    },
+    "rewards": {
+      "function": "long-days:zprivate/sleep/sleep_trigger"
+    }
+  }
+  
